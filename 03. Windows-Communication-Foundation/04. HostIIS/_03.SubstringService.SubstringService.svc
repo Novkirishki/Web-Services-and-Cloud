@@ -1,0 +1,1 @@
+<%@ ServiceHost Service="_03.SubstringService.SubstringService" %>
